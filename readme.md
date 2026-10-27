@@ -2,10 +2,10 @@
 
 ## Datos del equipo
 
-- **Integrante(s):** [ALEJANDRO DEL JESUS DIAZ LOPEZ]
-- **Matrícula:** [191087]
+- **Integrante:** ALEJANDRO DEL JESUS DIAZ LOPEZ
+- **Matrícula:** 191087
 - **Materia:** Programación avanzada
-- **Profesor:** [Jesús Alejandro Flores Hernández]
+- **Profesor:** Jesús Alejandro Flores Hernández
 - **Facultad:** Facultad de Ciencias de la Información, UNACAR
 
 ## Descripción de la actividad
